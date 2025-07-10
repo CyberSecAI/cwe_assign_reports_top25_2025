@@ -1,0 +1,72 @@
+{
+  "retriever": "sparse",
+  "query": "A weak hashing algorithm and small sizes of seeds/secrets in Googles gVisor allowed for a remote attacker to calculate a local IP address and a per-boot identifier that could aid in tracking of a device in certain circumstances.",
+  "keyphrases": {
+    "base_query": "A weak hashing algorithm and small sizes of seeds/secrets in Googles gVisor allowed for a remote attacker to calculate a local IP address and a per-boot identifier that could aid in tracking of a device in certain circumstances."
+  },
+  "timestamp": "2025-07-10 09:14:36",
+  "cve_id": "CVE-2024-10026",
+  "result_count": 10,
+  "results": [
+    {
+      "cwe_id": "330",
+      "name": "Use of Insufficiently Random Values",
+      "score": 85.68336566376865,
+      "search_source": "unknown"
+    },
+    {
+      "cwe_id": "328",
+      "name": "Use of Weak Hash",
+      "score": 81.08105322594588,
+      "search_source": "unknown"
+    },
+    {
+      "cwe_id": "203",
+      "name": "Observable Discrepancy",
+      "score": 79.62943529484373,
+      "search_source": "unknown"
+    },
+    {
+      "cwe_id": "327",
+      "name": "Use of a Broken or Risky Cryptographic Algorithm",
+      "score": 78.81086324513474,
+      "search_source": "unknown"
+    },
+    {
+      "cwe_id": "337",
+      "name": "Predictable Seed in Pseudo-Random Number Generator (PRNG)",
+      "score": 76.11819720141624,
+      "search_source": "unknown"
+    },
+    {
+      "cwe_id": "335",
+      "name": "Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG)",
+      "score": 74.30326444678624,
+      "search_source": "unknown"
+    },
+    {
+      "cwe_id": "1391",
+      "name": "Use of Weak Credentials",
+      "score": 74.16501942703064,
+      "search_source": "unknown"
+    },
+    {
+      "cwe_id": "916",
+      "name": "Use of Password Hash With Insufficient Computational Effort",
+      "score": 73.56022933225202,
+      "search_source": "unknown"
+    },
+    {
+      "cwe_id": "345",
+      "name": "Insufficient Verification of Data Authenticity",
+      "score": 73.18607529187135,
+      "search_source": "unknown"
+    },
+    {
+      "cwe_id": "341",
+      "name": "Predictable from Observable State",
+      "score": 72.96450184797709,
+      "search_source": "unknown"
+    }
+  ]
+}

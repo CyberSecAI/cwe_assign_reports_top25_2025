@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+760,Use of a One-Way Hash with a Predictable Salt,Variant,0.5136220512676919
+321,Use of Hard-coded Cryptographic Key,Variant,0.5110411262060737
+759,Use of a One-Way Hash without a Salt,Variant,0.5058009152332374
+1391,Use of Weak Credentials,Class,0.5039852807068106
+291,Reliance on IP Address for Authentication,Variant,0.5011653018330449
+1240,Use of a Cryptographic Primitive with a Risky Implementation,Base,0.4964500125545959
+916,Use of Password Hash With Insufficient Computational Effort,Base,0.49640654711378346
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),Base,0.49127287582283596
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.4909412202795361
+1285,Improper Validation of Specified Index  Position  or Offset in Input,Base,0.48927161588879764

@@ -1,0 +1,132 @@
+{
+  "retriever": "dense",
+  "query": "Improper Control of Generation of Code (Code Injection) vulnerability in BG-TEK Informatics Security Technologies CoslatV3 allows Command Injection.This issue affects CoslatV3 through 3.1069. NOTE The vendor was contacted and it was learned that the product is not supported.",
+  "keyphrases": {
+    "base_query": "Improper Control of Generation of Code (Code Injection) vulnerability in BG-TEK Informatics Security Technologies CoslatV3 allows Command Injection.This issue affects CoslatV3 through 3.1069. NOTE The vendor was contacted and it was learned that the product is not supported."
+  },
+  "timestamp": "2025-07-10 09:41:13",
+  "cve_id": "CVE-2024-10035",
+  "result_count": 20,
+  "results": [
+    {
+      "cwe_id": "94",
+      "name": "Improper Control of Generation of Code ('Code Injection')",
+      "type": "Base",
+      "score": 0.5695665383525534
+    },
+    {
+      "cwe_id": "96",
+      "name": "Improper Neutralization of Directives in Statically Saved Code ('Static Code Injection')",
+      "type": "Base",
+      "score": 0.5537555963687437
+    },
+    {
+      "cwe_id": "78",
+      "name": "Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+      "type": "Base",
+      "score": 0.5450223816846859
+    },
+    {
+      "cwe_id": "89",
+      "name": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+      "type": "Base",
+      "score": 0.5344842388464978
+    },
+    {
+      "cwe_id": "121",
+      "name": "Stack-based Buffer Overflow",
+      "type": "Variant",
+      "score": 0.5290179559901089
+    },
+    {
+      "cwe_id": "914",
+      "name": "Improper Control of Dynamically-Identified Variables",
+      "type": "Base",
+      "score": 0.5282400202507492
+    },
+    {
+      "cwe_id": "95",
+      "name": "Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection')",
+      "type": "Variant",
+      "score": 0.5261372797405939
+    },
+    {
+      "cwe_id": "790",
+      "name": "Improper Filtering of Special Elements",
+      "type": "Class",
+      "score": 0.5255691955032804
+    },
+    {
+      "cwe_id": "913",
+      "name": "Improper Control of Dynamically-Managed Code Resources",
+      "type": "Class",
+      "score": 0.524118969500057
+    },
+    {
+      "cwe_id": "80",
+      "name": "Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS)",
+      "type": "Variant",
+      "score": 0.5212916869248906
+    },
+    {
+      "cwe_id": "79",
+      "name": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+      "type": "Base",
+      "score": 0.5211023906962607
+    },
+    {
+      "cwe_id": "1336",
+      "name": "Improper Neutralization of Special Elements Used in a Template Engine",
+      "type": "Base",
+      "score": 0.5195326394256399
+    },
+    {
+      "cwe_id": "77",
+      "name": "Improper Neutralization of Special Elements used in a Command ('Command Injection')",
+      "type": "Class",
+      "score": 0.5153131376721339
+    },
+    {
+      "cwe_id": "306",
+      "name": "Missing Authentication for Critical Function",
+      "type": "Base",
+      "score": 0.5152174312783546
+    },
+    {
+      "cwe_id": "943",
+      "name": "Improper Neutralization of Special Elements in Data Query Logic",
+      "type": "Class",
+      "score": 0.5147854065356054
+    },
+    {
+      "cwe_id": "259",
+      "name": "Use of Hard-coded Password",
+      "type": "Variant",
+      "score": 0.5136043495792492
+    },
+    {
+      "cwe_id": "1426",
+      "name": "Improper Validation of Generative AI Output",
+      "type": "Base",
+      "score": 0.5130494947226036
+    },
+    {
+      "cwe_id": "915",
+      "name": "Improperly Controlled Modification of Dynamically-Determined Object Attributes",
+      "type": "Base",
+      "score": 0.5124458446588196
+    },
+    {
+      "cwe_id": "88",
+      "name": "Improper Neutralization of Argument Delimiters in a Command ('Argument Injection')",
+      "type": "Base",
+      "score": 0.5112403187077946
+    },
+    {
+      "cwe_id": "294",
+      "name": "Authentication Bypass by Capture-replay",
+      "type": "Base",
+      "score": 0.5105211217289173
+    }
+  ]
+}

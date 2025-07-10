@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+73,External Control of File Name or Path,Base,0.7575272909969533
+23,Relative Path Traversal,Base,0.752171415524785
+74,Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),Class,0.7501280603237037
+41,Improper Resolution of Path Equivalence,Base,0.7460682607167699
+184,Incomplete List of Disallowed Inputs,Base,0.7422439811137055
+59,Improper Link Resolution Before File Access ('Link Following'),Base,0.7413847209222184
+36,Absolute Path Traversal,Base,0.7315391720554774
+138,Improper Neutralization of Special Elements,Class,0.7296071965614076
+427,Uncontrolled Search Path Element,Base,0.7292033249273706
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),Base,0.7271923239148439

@@ -1,0 +1,72 @@
+{
+  "retriever": "sparse",
+  "query": "A weak hashing algorithm and small sizes of seeds/secrets in Googles gVisor allowed for a remote attacker to calculate a local IP address and a per-boot identifier that could aid in tracking of a device in certain circumstances.",
+  "keyphrases": {
+    "rootcause": "secrets"
+  },
+  "timestamp": "2025-07-10 09:40:47",
+  "cve_id": "CVE-2024-10026",
+  "result_count": 10,
+  "results": [
+    {
+      "cwe_id": "330",
+      "name": "Use of Insufficiently Random Values",
+      "score": 257.05009699130596,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "203",
+      "name": "Observable Discrepancy",
+      "score": 244.5056342513879,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "328",
+      "name": "Use of Weak Hash",
+      "score": 243.24315967783764,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "327",
+      "name": "Use of a Broken or Risky Cryptographic Algorithm",
+      "score": 238.953701811302,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "337",
+      "name": "Predictable Seed in Pseudo-Random Number Generator (PRNG)",
+      "score": 228.3545916042487,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "532",
+      "name": "Insertion of Sensitive Information into Log File",
+      "score": 226.4719983993844,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "657",
+      "name": "Violation of Secure Design Principles",
+      "score": 225.01077898875403,
+      "search_source": "rootcause:secrets"
+    },
+    {
+      "cwe_id": "335",
+      "name": "Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG)",
+      "score": 222.90979334035873,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "1391",
+      "name": "Use of Weak Credentials",
+      "score": 222.49505828109193,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "916",
+      "name": "Use of Password Hash With Insufficient Computational Effort",
+      "score": 220.68068799675606,
+      "search_source": "base_query"
+    }
+  ]
+}

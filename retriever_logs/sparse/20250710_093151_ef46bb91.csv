@@ -1,0 +1,17 @@
+cwe_id,name,score,search_source
+656,Reliance on Security Through Obscurity,700.0,alternate_term_match
+328,Use of Weak Hash,305.02616056256943,rootcause:weak hashing algorithm
+330,Use of Insufficiently Random Values,300.51150775290466,rootcause:weak hashing algorithm
+327,Use of a Broken or Risky Cryptographic Algorithm,280.27133096379924,rootcause:weak hashing algorithm
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),278.7187306430474,rootcause:small sizes of seeds
+337,Predictable Seed in Pseudo-Random Number Generator (PRNG),278.21579813610435,rootcause:small sizes of seeds
+916,Use of Password Hash With Insufficient Computational Effort,273.5634280149861,rootcause:weak hashing algorithm
+203,Observable Discrepancy,257.62267332537294,rootcause:weak hashing algorithm
+407,Inefficient Algorithmic Complexity,252.51873912342697,rootcause:weak hashing algorithm
+1391,Use of Weak Credentials,248.11498839891416,rootcause:weak hashing algorithm
+338,Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG),246.93659256531623,rootcause:weak hashing algorithm
+345,Insufficient Verification of Data Authenticity,244.4625306371536,rootcause:weak hashing algorithm
+341,Predictable from Observable State,239.84109809527843,rootcause:small sizes of seeds
+131,Incorrect Calculation of Buffer Size,239.7592474329453,rootcause:small sizes of seeds
+657,Violation of Secure Design Principles,234.591154873912,rootcause:small sizes of seeds
+532,Insertion of Sensitive Information into Log File,226.4719983993844,rootcause:secrets

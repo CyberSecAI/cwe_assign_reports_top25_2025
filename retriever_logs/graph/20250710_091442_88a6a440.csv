@@ -1,0 +1,21 @@
+cwe_id,name,type,score,relationship_count
+656,Reliance on Security Through Obscurity,class,2.5519999999999996,0
+321,Use of Hard-coded Cryptographic Key,Variant,2.489360306948991,0
+804,Guessable CAPTCHA,base,2.2100000000000004,0
+472,External Control of Assumed-Immutable Web Parameter,base,2.2100000000000004,0
+259,Use of Hard-coded Password,Variant,2.142428075619215,0
+385,Covert Timing Channel,base,1.7680000000000005,0
+916,Use of Password Hash With Insufficient Computational Effort,Base,1.7189989439830704,0
+328,Use of Weak Hash,Base,1.7182022340548238,0
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),Base,1.7079305887124683,0
+208,Observable Timing Discrepancy,Base,1.5495349876744473,0
+760,Use of a One-Way Hash with a Predictable Salt,Variant,1.530463483047827,0
+759,Use of a One-Way Hash without a Salt,Variant,1.529114548761501,0
+301,Reflection Attack in an Authentication Protocol,base,1.521,0
+1291,Public Key Re-Use for Signing both Debug and Production Code,base,1.521,0
+603,Use of Client-Side Authentication,base,1.521,0
+327,Use of a Broken or Risky Cryptographic Algorithm,class,1.4080000000000001,0
+384,Session Fixation,compound,1.2240000000000002,0
+341,Predictable from Observable State,base,1.1793600000000002,0
+257,Storing Passwords in a Recoverable Format,base,1.1466,0
+330,Use of Insufficiently Random Values,Class,1.077273854634862,0

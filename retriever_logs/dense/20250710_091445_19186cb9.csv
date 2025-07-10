@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+94,Improper Control of Generation of Code ('Code Injection'),Base,0.5850340821105247
+96,Improper Neutralization of Directives in Statically Saved Code ('Static Code Injection'),Base,0.5678324324187243
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),Base,0.5646105550693236
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),Base,0.5540019918127375
+121,Stack-based Buffer Overflow,Variant,0.5466878324212285
+790,Improper Filtering of Special Elements,Class,0.5422559833445699
+95,Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection'),Variant,0.5415516389242663
+259,Use of Hard-coded Password,Variant,0.5380553542789195
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),Base,0.5370156404125087
+914,Improper Control of Dynamically-Identified Variables,Base,0.5365174917072989

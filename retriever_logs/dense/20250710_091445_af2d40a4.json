@@ -1,0 +1,72 @@
+{
+  "retriever": "dense",
+  "query": "Improper Control of Generation of Code (Code Injection) vulnerability in BG-TEK Informatics Security Technologies CoslatV3 allows Command Injection.This issue affects CoslatV3 through 3.1069. NOTE The vendor was contacted and it was learned that the product is not supported. weakness: command injection",
+  "keyphrases": {
+    "weakness": "command injection"
+  },
+  "timestamp": "2025-07-10 09:14:45",
+  "cve_id": "CVE-2024-10035",
+  "result_count": 10,
+  "results": [
+    {
+      "cwe_id": "94",
+      "name": "Improper Control of Generation of Code ('Code Injection')",
+      "type": "Base",
+      "score": 0.577335504064317
+    },
+    {
+      "cwe_id": "96",
+      "name": "Improper Neutralization of Directives in Statically Saved Code ('Static Code Injection')",
+      "type": "Base",
+      "score": 0.5742016846735701
+    },
+    {
+      "cwe_id": "78",
+      "name": "Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+      "type": "Base",
+      "score": 0.566537873849116
+    },
+    {
+      "cwe_id": "790",
+      "name": "Improper Filtering of Special Elements",
+      "type": "Class",
+      "score": 0.5490863750085471
+    },
+    {
+      "cwe_id": "89",
+      "name": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+      "type": "Base",
+      "score": 0.5486854768095004
+    },
+    {
+      "cwe_id": "95",
+      "name": "Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection')",
+      "type": "Variant",
+      "score": 0.543528103592885
+    },
+    {
+      "cwe_id": "121",
+      "name": "Stack-based Buffer Overflow",
+      "type": "Variant",
+      "score": 0.5391247398016035
+    },
+    {
+      "cwe_id": "88",
+      "name": "Improper Neutralization of Argument Delimiters in a Command ('Argument Injection')",
+      "type": "Base",
+      "score": 0.5380763038719246
+    },
+    {
+      "cwe_id": "80",
+      "name": "Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS)",
+      "type": "Variant",
+      "score": 0.5357198459393233
+    },
+    {
+      "cwe_id": "77",
+      "name": "Improper Neutralization of Special Elements used in a Command ('Command Injection')",
+      "type": "Class",
+      "score": 0.534411578662894
+    }
+  ]
+}

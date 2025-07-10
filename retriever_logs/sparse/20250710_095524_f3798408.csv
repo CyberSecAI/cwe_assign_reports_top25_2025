@@ -1,0 +1,11 @@
+cwe_id,name,score,search_source
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),63.33064519259775,unknown
+95,Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection'),63.311436934901906,unknown
+502,Deserialization of Untrusted Data,63.28281225585001,unknown
+138,Improper Neutralization of Special Elements,62.79442680294171,unknown
+80,Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS),62.276552844082886,unknown
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),62.21440982616703,unknown
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),61.91888947624063,unknown
+94,Improper Control of Generation of Code ('Code Injection'),61.713075991289074,unknown
+233,Improper Handling of Parameters,61.68693239908932,unknown
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),61.013855191950235,unknown

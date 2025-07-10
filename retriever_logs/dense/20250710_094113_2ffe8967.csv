@@ -1,0 +1,21 @@
+cwe_id,name,type,score
+94,Improper Control of Generation of Code ('Code Injection'),Base,0.5695665383525534
+96,Improper Neutralization of Directives in Statically Saved Code ('Static Code Injection'),Base,0.5537555963687437
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),Base,0.5450223816846859
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),Base,0.5344842388464978
+121,Stack-based Buffer Overflow,Variant,0.5290179559901089
+914,Improper Control of Dynamically-Identified Variables,Base,0.5282400202507492
+95,Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection'),Variant,0.5261372797405939
+790,Improper Filtering of Special Elements,Class,0.5255691955032804
+913,Improper Control of Dynamically-Managed Code Resources,Class,0.524118969500057
+80,Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS),Variant,0.5212916869248906
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),Base,0.5211023906962607
+1336,Improper Neutralization of Special Elements Used in a Template Engine,Base,0.5195326394256399
+77,Improper Neutralization of Special Elements used in a Command ('Command Injection'),Class,0.5153131376721339
+306,Missing Authentication for Critical Function,Base,0.5152174312783546
+943,Improper Neutralization of Special Elements in Data Query Logic,Class,0.5147854065356054
+259,Use of Hard-coded Password,Variant,0.5136043495792492
+1426,Improper Validation of Generative AI Output,Base,0.5130494947226036
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.5124458446588196
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),Base,0.5112403187077946
+294,Authentication Bypass by Capture-replay,Base,0.5105211217289173

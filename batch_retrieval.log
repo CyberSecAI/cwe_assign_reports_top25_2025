@@ -1,0 +1,56 @@
+2025-07-10 09:13:16,807 - batch_retrieval - INFO - Starting batch retrieval from ./data_in/cves.csv
+2025-07-10 09:13:16,808 - batch_retrieval - ERROR - Error in batch retrieval process: CSV file missing required field: CVE
+Traceback (most recent call last):
+  File "/home/chris/work/CyberSecAI/top25_cwe_assign_compare/assign_cwe/src/utils/vulnerability_processor.py", line 3483, in batch_retrieve_vulnerabilities
+    rows = read_csv(csv_file, required_fields=['CVE'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/chris/work/CyberSecAI/top25_cwe_assign_compare/assign_cwe/src/utils/file_ops.py", line 137, in read_csv
+    raise ValueError(f"CSV file missing required field: {required}")
+ValueError: CSV file missing required field: CVE
+2025-07-10 09:14:32,454 - batch_retrieval - INFO - Starting batch retrieval from ./data_in/cves.csv
+2025-07-10 09:14:32,455 - batch_retrieval - INFO - Processing CVE-2024-10019 (1)
+2025-07-10 09:14:33,829 - batch_retrieval - INFO - Successfully retrieved info for CVE-2024-10019 in 1.37s
+2025-07-10 09:14:34,830 - batch_retrieval - INFO - Processing CVE-2024-10026 (2)
+2025-07-10 09:14:43,040 - batch_retrieval - INFO - Successfully retrieved info for CVE-2024-10026 in 8.17s
+2025-07-10 09:14:44,041 - batch_retrieval - INFO - Processing CVE-2024-10035 (3)
+2025-07-10 09:14:51,680 - batch_retrieval - INFO - Successfully retrieved info for CVE-2024-10035 in 7.58s
+2025-07-10 09:14:52,681 - batch_retrieval - INFO - Batch processing completed in 20.23s
+2025-07-10 09:14:52,682 - batch_retrieval - INFO - Total CVEs processed: 3
+2025-07-10 09:14:52,682 - batch_retrieval - INFO - Successful: 3, Failed: 0, Skipped: 0
+2025-07-10 09:14:52,682 - batch_retrieval - INFO - Average retrieval time: 5.70s per CVE
+2025-07-10 09:14:52,682 - batch_retrieval - INFO - CWE statistics: Avg=9.67, Min=9, Max=10
+2025-07-10 09:14:52,683 - batch_retrieval - INFO - Retriever usage: AlternateTerms=2, Sparse=23, Dense=2, Graph=2
+2025-07-10 09:14:52,683 - batch_retrieval - INFO - Summary written to /home/chris/work/CyberSecAI/cwe_assign_reports_top25_2025/retrieval_stats_summary.md
+2025-07-10 09:27:40,404 - batch_retrieval - INFO - Starting batch retrieval from ./data_in/cves.csv
+2025-07-10 09:27:40,405 - batch_retrieval - ERROR - Error in batch retrieval process: CSV file missing required field: CVE
+Traceback (most recent call last):
+  File "/home/chris/work/CyberSecAI/top25_cwe_assign_compare/assign_cwe/src/utils/vulnerability_processor.py", line 3483, in batch_retrieve_vulnerabilities
+    rows = read_csv(csv_file, required_fields=['CVE'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/chris/work/CyberSecAI/top25_cwe_assign_compare/assign_cwe/src/utils/file_ops.py", line 137, in read_csv
+    raise ValueError(f"CSV file missing required field: {required}")
+ValueError: CSV file missing required field: CVE
+2025-07-10 09:28:29,379 - batch_retrieval - INFO - Starting batch retrieval from ./data_in/cves.csv
+2025-07-10 09:28:29,379 - batch_retrieval - INFO - Skipping CVE-2024-10019 - output directory already exists (1)
+2025-07-10 09:28:29,381 - batch_retrieval - INFO - Skipping CVE-2024-10026 - output directory already exists (2)
+2025-07-10 09:28:29,387 - batch_retrieval - INFO - Skipping CVE-2024-10035 - output directory already exists (3)
+2025-07-10 09:28:29,398 - batch_retrieval - INFO - Batch processing completed in 0.02s
+2025-07-10 09:28:29,399 - batch_retrieval - INFO - Total CVEs processed: 3
+2025-07-10 09:28:29,399 - batch_retrieval - INFO - Successful: 0, Failed: 0, Skipped: 3
+2025-07-10 09:28:29,399 - batch_retrieval - INFO - Summary written to /home/chris/work/CyberSecAI/cwe_assign_reports_top25_2025/retrieval_stats_summary.md
+2025-07-10 09:31:03,638 - batch_retrieval - INFO - Starting batch retrieval from ./data_in/cves.csv
+2025-07-10 09:31:03,639 - batch_retrieval - INFO - Skipping CVE-2024-10019 - output directory already exists (1)
+2025-07-10 09:31:03,640 - batch_retrieval - INFO - Skipping CVE-2024-10026 - output directory already exists (2)
+2025-07-10 09:31:03,652 - batch_retrieval - INFO - Skipping CVE-2024-10035 - output directory already exists (3)
+2025-07-10 09:31:03,670 - batch_retrieval - INFO - Batch processing completed in 0.03s
+2025-07-10 09:31:03,671 - batch_retrieval - INFO - Total CVEs processed: 3
+2025-07-10 09:31:03,671 - batch_retrieval - INFO - Successful: 0, Failed: 0, Skipped: 3
+2025-07-10 09:31:03,671 - batch_retrieval - INFO - Summary written to /home/chris/work/CyberSecAI/cwe_assign_reports_top25_2025/retrieval_stats_summary.md
+2025-07-10 09:36:47,992 - batch_retrieval - INFO - Starting batch retrieval from ./data_in/cves.csv
+2025-07-10 09:36:47,993 - batch_retrieval - INFO - Skipping CVE-2024-10019 - output directory already exists (1)
+2025-07-10 09:36:47,994 - batch_retrieval - INFO - Skipping CVE-2024-10026 - output directory already exists (2)
+2025-07-10 09:36:48,001 - batch_retrieval - INFO - Skipping CVE-2024-10035 - output directory already exists (3)
+2025-07-10 09:36:48,014 - batch_retrieval - INFO - Batch processing completed in 0.02s
+2025-07-10 09:36:48,015 - batch_retrieval - INFO - Total CVEs processed: 3
+2025-07-10 09:36:48,015 - batch_retrieval - INFO - Successful: 0, Failed: 0, Skipped: 3
+2025-07-10 09:36:48,016 - batch_retrieval - INFO - Summary written to /home/chris/work/CyberSecAI/cwe_assign_reports_top25_2025/retrieval_stats_summary.md

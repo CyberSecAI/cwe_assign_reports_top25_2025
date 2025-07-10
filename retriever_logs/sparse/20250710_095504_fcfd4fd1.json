@@ -1,0 +1,72 @@
+{
+  "retriever": "sparse",
+  "query": "A weak hashing algorithm and small sizes of seeds/secrets in Googles gVisor allowed for a remote attacker to calculate a local IP address and a per-boot identifier that could aid in tracking of a device in certain circumstances.",
+  "keyphrases": {
+    "rootcause": "small sizes of seeds"
+  },
+  "timestamp": "2025-07-10 09:55:04",
+  "cve_id": "CVE-2024-10026",
+  "result_count": 10,
+  "results": [
+    {
+      "cwe_id": "335",
+      "name": "Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG)",
+      "score": 278.7187306430474,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "337",
+      "name": "Predictable Seed in Pseudo-Random Number Generator (PRNG)",
+      "score": 278.21579813610435,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "330",
+      "name": "Use of Insufficiently Random Values",
+      "score": 274.51536073691796,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "203",
+      "name": "Observable Discrepancy",
+      "score": 256.5725023027003,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "328",
+      "name": "Use of Weak Hash",
+      "score": 253.5288576232045,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "327",
+      "name": "Use of a Broken or Risky Cryptographic Algorithm",
+      "score": 249.01636843613943,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "1391",
+      "name": "Use of Weak Credentials",
+      "score": 240.0582517839377,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "341",
+      "name": "Predictable from Observable State",
+      "score": 239.84109809527843,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "131",
+      "name": "Incorrect Calculation of Buffer Size",
+      "score": 239.7592474329453,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "657",
+      "name": "Violation of Secure Design Principles",
+      "score": 234.591154873912,
+      "search_source": "rootcause:small sizes of seeds"
+    }
+  ]
+}

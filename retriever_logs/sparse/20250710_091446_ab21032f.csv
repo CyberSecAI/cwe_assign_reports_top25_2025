@@ -1,0 +1,11 @@
+cwe_id,name,score,search_source
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),199.76079064451383,base_query
+138,Improper Neutralization of Special Elements,197.18726483924692,base_query
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),196.73866802432678,base_query
+95,Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection'),195.44966665140544,base_query
+790,Improper Filtering of Special Elements,191.973248915623,base_query
+502,Deserialization of Untrusted Data,191.6179167232692,base_query
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),191.08029504853607,base_query
+94,Improper Control of Generation of Code ('Code Injection'),189.91349986819384,base_query
+1336,Improper Neutralization of Special Elements Used in a Template Engine,189.17810676141497,base_query
+93,Improper Neutralization of CRLF Sequences ('CRLF Injection'),188.49783097631584,base_query
