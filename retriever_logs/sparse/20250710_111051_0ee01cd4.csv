@@ -1,0 +1,11 @@
+cwe_id,name,score,search_source
+330,Use of Insufficiently Random Values,85.68336566376865,unknown
+328,Use of Weak Hash,81.08105322594588,unknown
+203,Observable Discrepancy,79.62943529484373,unknown
+327,Use of a Broken or Risky Cryptographic Algorithm,78.81086324513474,unknown
+337,Predictable Seed in Pseudo-Random Number Generator (PRNG),76.11819720141624,unknown
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),74.30326444678624,unknown
+1391,Use of Weak Credentials,74.16501942703064,unknown
+916,Use of Password Hash With Insufficient Computational Effort,73.56022933225202,unknown
+345,Insufficient Verification of Data Authenticity,73.18607529187135,unknown
+341,Predictable from Observable State,72.96450184797709,unknown

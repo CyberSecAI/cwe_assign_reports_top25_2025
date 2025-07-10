@@ -1,0 +1,11 @@
+cwe_id,name,score,search_source
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),403.7086808504839,base_query
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),402.48245895896366,base_query
+306,Missing Authentication for Critical Function,372.5186227499917,base_query
+285,Improper Authorization,362.39182826316426,base_query
+266,Incorrect Privilege Assignment,359.35614741811617,base_query
+125,Out-of-bounds Read,358.5020033477717,base_query
+287,Improper Authentication,355.0891392090893,base_query
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),354.4401388692218,base_query
+732,Incorrect Permission Assignment for Critical Resource,350.92664872147554,base_query
+99,Improper Control of Resource Identifiers ('Resource Injection'),350.08226833992103,base_query

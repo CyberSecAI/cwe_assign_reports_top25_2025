@@ -1,0 +1,11 @@
+cwe_id,name,score,search_source
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),138.89396956773476,unknown
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),134.46113745078063,unknown
+306,Missing Authentication for Critical Function,123.11357252936224,unknown
+287,Improper Authentication,122.28578894124536,unknown
+404,Improper Resource Shutdown or Release,121.98067203015876,unknown
+285,Improper Authorization,119.56634107138231,unknown
+99,Improper Control of Resource Identifiers ('Resource Injection'),119.33506165130517,unknown
+1336,Improper Neutralization of Special Elements Used in a Template Engine,118.31040326580718,unknown
+334,Small Space of Random Values,117.76290975034128,unknown
+266,Incorrect Privilege Assignment,117.70932083945314,unknown

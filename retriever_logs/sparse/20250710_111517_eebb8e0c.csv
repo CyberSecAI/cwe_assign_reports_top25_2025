@@ -1,0 +1,12 @@
+cwe_id,name,score,search_source
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),403.7086808504839,rootcause:improper access controls
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),402.48245895896366,rootcause:improper access controls
+306,Missing Authentication for Critical Function,372.5186227499917,rootcause:improper access controls
+285,Improper Authorization,362.39182826316426,rootcause:improper access controls
+266,Incorrect Privilege Assignment,359.35614741811617,rootcause:improper access controls
+125,Out-of-bounds Read,358.5020033477717,rootcause:improper access controls
+287,Improper Authentication,355.0891392090893,rootcause:improper access controls
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),354.4401388692218,rootcause:improper access controls
+732,Incorrect Permission Assignment for Critical Resource,350.92664872147554,rootcause:improper access controls
+99,Improper Control of Resource Identifiers ('Resource Injection'),350.08226833992103,rootcause:improper access controls
+434,Unrestricted Upload of File with Dangerous Type,112.70483627494946,base_query

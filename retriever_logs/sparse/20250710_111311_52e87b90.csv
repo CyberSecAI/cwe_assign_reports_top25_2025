@@ -1,0 +1,11 @@
+cwe_id,name,score,search_source
+269,Improper Privilege Management,50.00361645792875,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,47.58420677509486,unknown
+732,Incorrect Permission Assignment for Critical Resource,47.54098689645987,unknown
+59,Improper Link Resolution Before File Access ('Link Following'),47.39289598068375,unknown
+306,Missing Authentication for Critical Function,47.27880227435488,unknown
+256,Plaintext Storage of a Password,46.29979225080653,unknown
+798,Use of Hard-coded Credentials,46.28645028636641,unknown
+287,Improper Authentication,46.20498147078023,unknown
+285,Improper Authorization,46.2012699647799,unknown
+276,Incorrect Default Permissions,45.45889531393707,unknown

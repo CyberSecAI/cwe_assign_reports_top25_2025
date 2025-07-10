@@ -1,0 +1,21 @@
+cwe_id,name,type,score
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),Base,0.5887722550080937
+434,Unrestricted Upload of File with Dangerous Type,Base,0.5878710078882914
+425,Direct Request ('Forced Browsing'),Base,0.5831950614987784
+73,External Control of File Name or Path,Base,0.5741417827593707
+696,Incorrect Behavior Order,Class,0.573236459851074
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),Base,0.5730449942804257
+200,Exposure of Sensitive Information to an Unauthorized Actor,Class,0.5688646361566423
+775,Missing Release of File Descriptor or Handle after Effective Lifetime,Variant,0.5656226276315454
+472,External Control of Assumed-Immutable Web Parameter,Base,0.5649993774607878
+790,Improper Filtering of Special Elements,Class,0.5637759838889742
+552,Files or Directories Accessible to External Parties,Base,0.5636150332487202
+704,Incorrect Type Conversion or Cast,Class,0.5635283997617745
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.5609394571544943
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,Base,0.5583281673698346
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.5581975005671855
+269,Improper Privilege Management,Class,0.5578492009154441
+799,Improper Control of Interaction Frequency,Class,0.557592099878381
+294,Authentication Bypass by Capture-replay,Base,0.5574153840221862
+642,External Control of Critical State Data,Class,0.5569069118288493
+94,Improper Control of Generation of Code ('Code Injection'),Base,0.5566103278671437

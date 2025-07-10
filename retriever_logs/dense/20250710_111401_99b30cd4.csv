@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),Base,0.6481882768127822
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),Base,0.6116706010682489
+96,Improper Neutralization of Directives in Statically Saved Code ('Static Code Injection'),Base,0.599356016546013
+425,Direct Request ('Forced Browsing'),Base,0.5982577886197322
+790,Improper Filtering of Special Elements,Class,0.5981402447971121
+95,Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection'),Variant,0.5972246760165796
+434,Unrestricted Upload of File with Dangerous Type,Base,0.5961516900784202
+502,Deserialization of Untrusted Data,Base,0.5949881545270899
+200,Exposure of Sensitive Information to an Unauthorized Actor,Class,0.5924895295697881
+94,Improper Control of Generation of Code ('Code Injection'),Base,0.5913645088901223

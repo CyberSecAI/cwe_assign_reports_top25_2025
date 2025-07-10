@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+667,Improper Locking,Class,0.7711790817220413
+1299,Missing Protection Mechanism for Alternate Hardware Interface,Base,0.7619682846229912
+653,Improper Isolation or Compartmentalization,Class,0.7617137291635371
+362,Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),Class,0.760841853697489
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,Base,0.7600881716647548
+404,Improper Resource Shutdown or Release,Class,0.7590504489583423
+668,Exposure of Resource to Wrong Sphere,Class,0.7537960119258544
+226,Sensitive Information in Resource Not Removed Before Reuse,Base,0.7515245371861594
+662,Improper Synchronization,Class,0.7491269284438625
+41,Improper Resolution of Path Equivalence,Base,0.7478047310721017

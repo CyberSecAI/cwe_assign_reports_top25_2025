@@ -1,0 +1,21 @@
+cwe_id,name,type,score
+942,Permissive Cross-domain Policy with Untrusted Domains,Variant,0.47290549186059533
+269,Improper Privilege Management,Class,0.4690298915265867
+671,Lack of Administrator Control over Security,Class,0.45394683167981736
+1220,Insufficient Granularity of Access Control,Base,0.4530108464899889
+642,External Control of Critical State Data,Class,0.45035145355037187
+798,Use of Hard-coded Credentials,Base,0.4486352074762429
+421,Race Condition During Access to Alternate Channel,Base,0.44802474875375004
+268,Privilege Chaining,Base,0.447763179869319
+912,Hidden Functionality,Class,0.44702693752114087
+1421,Exposure of Sensitive Information in Shared Microarchitectural Structures during Transient Execution,Base,0.44694050187113876
+250,Execution with Unnecessary Privileges,Base,0.4453363128395203
+1249,Application-Level Admin Tool with Inconsistent View of Underlying Operating System,Base,0.44064881308352744
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.44034274083352365
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.4402391935267751
+1263,Improper Physical Access Control,Class,0.43959974274967434
+270,Privilege Context Switching Error,Base,0.4392602291491855
+1257,Improper Access Control Applied to Mirrored or Aliased Memory Regions,Base,0.4389323815856281
+732,Incorrect Permission Assignment for Critical Resource,Class,0.4384545805560396
+284,Improper Access Control,Pillar,0.43608880814284834
+648,Incorrect Use of Privileged APIs,Base,0.43321990457794524

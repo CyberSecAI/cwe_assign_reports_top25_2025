@@ -1,0 +1,11 @@
+cwe_id,name,score,search_source
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),395.4225813082715,base_query
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),364.64511197190643,base_query
+502,Deserialization of Untrusted Data,326.777754416513,base_query
+99,Improper Control of Resource Identifiers ('Resource Injection'),323.36954788176416,base_query
+306,Missing Authentication for Critical Function,317.5188997767383,base_query
+404,Improper Resource Shutdown or Release,316.21790985098727,base_query
+138,Improper Neutralization of Special Elements,314.67808901031003,base_query
+1336,Improper Neutralization of Special Elements Used in a Template Engine,314.00201972234066,base_query
+434,Unrestricted Upload of File with Dangerous Type,313.37604003622175,base_query
+93,Improper Neutralization of CRLF Sequences ('CRLF Injection'),312.7456445934934,base_query

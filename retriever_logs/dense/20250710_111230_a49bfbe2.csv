@@ -1,0 +1,21 @@
+cwe_id,name,type,score
+1421,Exposure of Sensitive Information in Shared Microarchitectural Structures during Transient Execution,Base,0.46628200091014593
+942,Permissive Cross-domain Policy with Untrusted Domains,Variant,0.46593761081889973
+269,Improper Privilege Management,Class,0.4614456829300359
+1263,Improper Physical Access Control,Class,0.4512464246462261
+421,Race Condition During Access to Alternate Channel,Base,0.44953325877993433
+798,Use of Hard-coded Credentials,Base,0.44366888595593035
+1220,Insufficient Granularity of Access Control,Base,0.44314808396055283
+912,Hidden Functionality,Class,0.4425005166760669
+522,Insufficiently Protected Credentials,Class,0.44126148318773156
+642,External Control of Critical State Data,Class,0.440783130521419
+316,Cleartext Storage of Sensitive Information in Memory,Variant,0.4404826029152347
+250,Execution with Unnecessary Privileges,Base,0.4394095486927685
+284,Improper Access Control,Pillar,0.43698517684232463
+287,Improper Authentication,Class,0.4368484166843131
+1244,Internal Asset Exposed to Unsafe Debug Access Level or State,Base,0.4355846109445719
+288,Authentication Bypass Using an Alternate Path or Channel,Base,0.43525550292113513
+807,Reliance on Untrusted Inputs in a Security Decision,Base,0.4352458398580332
+732,Incorrect Permission Assignment for Critical Resource,Class,0.4347645792506263
+270,Privilege Context Switching Error,Base,0.43453765180048043
+496,Public Data Assigned to Private Array-Typed Field,Variant,0.4334426875820137

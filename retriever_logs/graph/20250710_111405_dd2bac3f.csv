@@ -1,0 +1,21 @@
+cwe_id,name,type,score,relationship_count
+425,Direct Request ('Forced Browsing'),Base,2.306639999173735,0
+184,Incomplete List of Disallowed Inputs,base,2.2100000000000004,0
+494,Download of Code Without Integrity Check,base,2.2100000000000004,0
+471,Modification of Assumed-Immutable Data (MAID),base,2.2100000000000004,0
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),Base,2.1031470764507354,0
+621,Variable Extraction Error,variant,2.06592,0
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),variant,2.04,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,2.04,0
+456,Missing Initialization of a Variable,variant,2.04,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),Base,1.9237970597135368,0
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),base,1.7680000000000005,0
+120,Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'),base,1.7680000000000005,0
+1282,Assumed-Immutable Data is Stored in Writable Memory,base,1.6848000000000003,0
+73,External Control of File Name or Path,Base,1.6800254608101062,0
+96,Improper Neutralization of Directives in Statically Saved Code ('Static Code Injection'),Base,1.6479174473095792,0
+502,Deserialization of Untrusted Data,Base,1.644809066271185,0
+457,Use of Uninitialized Variable,variant,1.6320000000000003,0
+94,Improper Control of Generation of Code ('Code Injection'),Base,1.6144826094317077,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,1.6016000000000004,0
+41,Improper Resolution of Path Equivalence,base,1.6016000000000004,0

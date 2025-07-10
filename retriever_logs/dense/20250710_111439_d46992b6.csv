@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+434,Unrestricted Upload of File with Dangerous Type,Base,0.6073964881138383
+425,Direct Request ('Forced Browsing'),Base,0.6069712098944354
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),Base,0.6003830781835666
+73,External Control of File Name or Path,Base,0.595241144064419
+472,External Control of Assumed-Immutable Web Parameter,Base,0.5896756894103385
+696,Incorrect Behavior Order,Class,0.5878317038149541
+552,Files or Directories Accessible to External Parties,Base,0.5874004913612833
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.5849912274335707
+200,Exposure of Sensitive Information to an Unauthorized Actor,Class,0.5843592550292087
+790,Improper Filtering of Special Elements,Class,0.5839372838084704

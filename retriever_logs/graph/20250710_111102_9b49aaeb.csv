@@ -1,0 +1,11 @@
+cwe_id,name,type,score,relationship_count
+259,Use of Hard-coded Password,variant,4.5264,0
+472,External Control of Assumed-Immutable Web Parameter,base,4.329000000000001,0
+804,Guessable CAPTCHA,base,4.329000000000001,0
+603,Use of Client-Side Authentication,base,3.6399999999999997,0
+321,Use of Hard-coded Cryptographic Key,Variant,3.0184959216675704,0
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,base,2.2100000000000004,0
+1291,Public Key Re-Use for Signing both Debug and Production Code,base,2.1762,0
+760,Use of a One-Way Hash with a Predictable Salt,variant,2.1624,0
+337,Predictable Seed in Pseudo-Random Number Generator (PRNG),variant,2.1624,0
+311,Missing Encryption of Sensitive Data,class,2.1279999999999997,0

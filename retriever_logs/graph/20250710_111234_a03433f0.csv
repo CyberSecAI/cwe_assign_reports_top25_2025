@@ -1,0 +1,21 @@
+cwe_id,name,type,score,relationship_count
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,base,2.6104000000000003,0
+421,Race Condition During Access to Alternate Channel,base,2.3998000000000004,0
+386,Symbolic Name not Mapping to Correct Object,base,2.3764000000000003,0
+609,Double-Checked Locking,base,2.2100000000000004,0
+823,Use of Out-of-range Pointer Offset,base,2.2100000000000004,0
+789,Memory Allocation with Excessive Size Value,variant,2.04,0
+476,NULL Pointer Dereference,base,1.7680000000000005,0
+787,Out-of-bounds Write,base,1.7680000000000005,0
+125,Out-of-bounds Read,base,1.7680000000000005,0
+1257,Improper Access Control Applied to Mirrored or Aliased Memory Regions,base,1.6848000000000003,0
+1260,Improper Handling of Overlap Between Protected Memory Ranges,base,1.6848000000000003,0
+1284,Improper Validation of Specified Quantity in Input,base,1.6848000000000003,0
+128,Wrap-around Error,base,1.6848000000000003,0
+131,Incorrect Calculation of Buffer Size,base,1.6848000000000003,0
+1339,Insufficient Precision or Accuracy of a Real Number,base,1.6848000000000003,0
+190,Integer Overflow or Wraparound,base,1.6848000000000003,0
+193,Off-by-one Error,base,1.6848000000000003,0
+839,Numeric Range Comparison Without Minimum Check,base,1.6848000000000003,0
+843,Access of Resource Using Incompatible Type ('Type Confusion'),base,1.6848000000000003,0
+689,Permission Race Condition During Resource Copy,compound,1.61,0

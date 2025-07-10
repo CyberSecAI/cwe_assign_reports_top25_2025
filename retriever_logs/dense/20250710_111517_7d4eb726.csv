@@ -1,0 +1,11 @@
+cwe_id,name,type,score
+269,Improper Privilege Management,Class,0.6193283042242544
+73,External Control of File Name or Path,Base,0.6146462331543946
+284,Improper Access Control,Pillar,0.6129167894521264
+200,Exposure of Sensitive Information to an Unauthorized Actor,Class,0.6110513106047268
+552,Files or Directories Accessible to External Parties,Base,0.6108349991509683
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.610465626922176
+425,Direct Request ('Forced Browsing'),Base,0.6101123898561926
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),Base,0.607997050041967
+434,Unrestricted Upload of File with Dangerous Type,Base,0.6056317141201377
+642,External Control of Critical State Data,Class,0.6009008943264353

@@ -1,0 +1,72 @@
+{
+  "retriever": "sparse",
+  "query": "A vulnerability, which was classified as critical, was found in JeeWMS up to 20250504. This affects the function filedeal of the file /systemController/filedeal.do of the component File Handler. The manipulation leads to improper access controls. It is possible to initiate the attack remotely. This product does not use versioning. This is why information about affected and unaffected releases are unavailable.",
+  "keyphrases": {
+    "base_query": "A vulnerability, which was classified as critical, was found in JeeWMS up to 20250504. This affects the function filedeal of the file /systemController/filedeal.do of the component File Handler. The manipulation leads to improper access controls. It is possible to initiate the attack remotely. This product does not use versioning. This is why information about affected and unaffected releases are unavailable."
+  },
+  "timestamp": "2025-07-10 11:15:17",
+  "cve_id": "CVE-2025-5390",
+  "result_count": 10,
+  "results": [
+    {
+      "cwe_id": "79",
+      "name": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+      "score": 131.44069472830247,
+      "search_source": "unknown"
+    },
+    {
+      "cwe_id": "89",
+      "name": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+      "score": 130.61128064049313,
+      "search_source": "unknown"
+    },
+    {
+      "cwe_id": "306",
+      "name": "Missing Authentication for Critical Function",
+      "score": 118.95446610844449,
+      "search_source": "unknown"
+    },
+    {
+      "cwe_id": "125",
+      "name": "Out-of-bounds Read",
+      "score": 116.2168320912629,
+      "search_source": "unknown"
+    },
+    {
+      "cwe_id": "266",
+      "name": "Incorrect Privilege Assignment",
+      "score": 114.07350134470965,
+      "search_source": "unknown"
+    },
+    {
+      "cwe_id": "285",
+      "name": "Improper Authorization",
+      "score": 113.99460279695414,
+      "search_source": "unknown"
+    },
+    {
+      "cwe_id": "22",
+      "name": "Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+      "score": 113.49068996606653,
+      "search_source": "unknown"
+    },
+    {
+      "cwe_id": "99",
+      "name": "Improper Control of Resource Identifiers ('Resource Injection')",
+      "score": 113.16589779644625,
+      "search_source": "unknown"
+    },
+    {
+      "cwe_id": "287",
+      "name": "Improper Authentication",
+      "score": 112.80656451615765,
+      "search_source": "unknown"
+    },
+    {
+      "cwe_id": "434",
+      "name": "Unrestricted Upload of File with Dangerous Type",
+      "score": 112.70483627494946,
+      "search_source": "unknown"
+    }
+  ]
+}

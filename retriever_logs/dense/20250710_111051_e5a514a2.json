@@ -1,0 +1,72 @@
+{
+  "retriever": "dense",
+  "query": "A weak hashing algorithm and small sizes of seeds/secrets in Googles gVisor allowed for a remote attacker to calculate a local IP address and a per-boot identifier that could aid in tracking of a device in certain circumstances. rootcause: small sizes of seeds",
+  "keyphrases": {
+    "rootcause": "small sizes of seeds"
+  },
+  "timestamp": "2025-07-10 11:10:51",
+  "cve_id": "CVE-2024-10026",
+  "result_count": 10,
+  "results": [
+    {
+      "cwe_id": "760",
+      "name": "Use of a One-Way Hash with a Predictable Salt",
+      "type": "Variant",
+      "score": 0.5028402338063303
+    },
+    {
+      "cwe_id": "759",
+      "name": "Use of a One-Way Hash without a Salt",
+      "type": "Variant",
+      "score": 0.4966887204993711
+    },
+    {
+      "cwe_id": "321",
+      "name": "Use of Hard-coded Cryptographic Key",
+      "type": "Variant",
+      "score": 0.4962393203792005
+    },
+    {
+      "cwe_id": "334",
+      "name": "Small Space of Random Values",
+      "type": "Base",
+      "score": 0.4931970794858467
+    },
+    {
+      "cwe_id": "291",
+      "name": "Reliance on IP Address for Authentication",
+      "type": "Variant",
+      "score": 0.49271878688420445
+    },
+    {
+      "cwe_id": "1391",
+      "name": "Use of Weak Credentials",
+      "type": "Class",
+      "score": 0.49057116477577256
+    },
+    {
+      "cwe_id": "916",
+      "name": "Use of Password Hash With Insufficient Computational Effort",
+      "type": "Base",
+      "score": 0.4901286812735754
+    },
+    {
+      "cwe_id": "335",
+      "name": "Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG)",
+      "type": "Base",
+      "score": 0.48910163421753633
+    },
+    {
+      "cwe_id": "1285",
+      "name": "Improper Validation of Specified Index, Position, or Offset in Input",
+      "type": "Base",
+      "score": 0.4854782401098448
+    },
+    {
+      "cwe_id": "1240",
+      "name": "Use of a Cryptographic Primitive with a Risky Implementation",
+      "type": "Base",
+      "score": 0.48389387271994516
+    }
+  ]
+}

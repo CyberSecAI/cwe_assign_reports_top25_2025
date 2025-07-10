@@ -1,0 +1,132 @@
+{
+  "retriever": "dense",
+  "query": "A condition exists in FlashArray and FlashBlade Purity whereby a malicious user could execute arbitrary commands remotely through a specifically crafted SNMP configuration.",
+  "keyphrases": {
+    "base_query": "A condition exists in FlashArray and FlashBlade Purity whereby a malicious user could execute arbitrary commands remotely through a specifically crafted SNMP configuration."
+  },
+  "timestamp": "2025-07-10 11:13:36",
+  "cve_id": "CVE-2024-0005",
+  "result_count": 20,
+  "results": [
+    {
+      "cwe_id": "78",
+      "name": "Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+      "type": "Base",
+      "score": 0.5353870607068714
+    },
+    {
+      "cwe_id": "912",
+      "name": "Hidden Functionality",
+      "type": "Class",
+      "score": 0.5317264739718544
+    },
+    {
+      "cwe_id": "269",
+      "name": "Improper Privilege Management",
+      "type": "Class",
+      "score": 0.5154834310279885
+    },
+    {
+      "cwe_id": "942",
+      "name": "Permissive Cross-domain Policy with Untrusted Domains",
+      "type": "Variant",
+      "score": 0.5123713916945671
+    },
+    {
+      "cwe_id": "250",
+      "name": "Execution with Unnecessary Privileges",
+      "type": "Base",
+      "score": 0.5036620178101634
+    },
+    {
+      "cwe_id": "22",
+      "name": "Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+      "type": "Base",
+      "score": 0.5006087336528151
+    },
+    {
+      "cwe_id": "306",
+      "name": "Missing Authentication for Critical Function",
+      "type": "Base",
+      "score": 0.4985503597774572
+    },
+    {
+      "cwe_id": "798",
+      "name": "Use of Hard-coded Credentials",
+      "type": "Base",
+      "score": 0.49833536051667693
+    },
+    {
+      "cwe_id": "200",
+      "name": "Exposure of Sensitive Information to an Unauthorized Actor",
+      "type": "Class",
+      "score": 0.4951672463458531
+    },
+    {
+      "cwe_id": "284",
+      "name": "Improper Access Control",
+      "type": "Pillar",
+      "score": 0.4916308165981364
+    },
+    {
+      "cwe_id": "321",
+      "name": "Use of Hard-coded Cryptographic Key",
+      "type": "Variant",
+      "score": 0.4882788264728737
+    },
+    {
+      "cwe_id": "294",
+      "name": "Authentication Bypass by Capture-replay",
+      "type": "Base",
+      "score": 0.48685723528412383
+    },
+    {
+      "cwe_id": "1299",
+      "name": "Missing Protection Mechanism for Alternate Hardware Interface",
+      "type": "Base",
+      "score": 0.4864059192573041
+    },
+    {
+      "cwe_id": "20",
+      "name": "Improper Input Validation",
+      "type": "Class",
+      "score": 0.4863261668032365
+    },
+    {
+      "cwe_id": "1256",
+      "name": "Improper Restriction of Software Interfaces to Hardware Features",
+      "type": "Base",
+      "score": 0.4861978990434552
+    },
+    {
+      "cwe_id": "401",
+      "name": "Missing Release of Memory after Effective Lifetime",
+      "type": "Variant",
+      "score": 0.48553668316429854
+    },
+    {
+      "cwe_id": "732",
+      "name": "Incorrect Permission Assignment for Critical Resource",
+      "type": "Class",
+      "score": 0.4830346907343879
+    },
+    {
+      "cwe_id": "941",
+      "name": "Incorrectly Specified Destination in a Communication Channel",
+      "type": "Base",
+      "score": 0.4823707471910771
+    },
+    {
+      "cwe_id": "121",
+      "name": "Stack-based Buffer Overflow",
+      "type": "Variant",
+      "score": 0.48197447789385606
+    },
+    {
+      "cwe_id": "406",
+      "name": "Insufficient Control of Network Message Volume (Network Amplification)",
+      "type": "Class",
+      "score": 0.48170777475007076
+    }
+  ]
+}

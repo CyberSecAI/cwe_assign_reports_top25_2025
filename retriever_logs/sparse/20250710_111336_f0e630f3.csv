@@ -1,0 +1,11 @@
+cwe_id,name,score,search_source
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),38.0122476969381,base_query
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),37.598000310131575,base_query
+138,Improper Neutralization of Special Elements,37.42241606096516,base_query
+269,Improper Privilege Management,37.41070654880255,base_query
+427,Uncontrolled Search Path Element,36.752739755991854,base_query
+502,Deserialization of Untrusted Data,36.60248186051557,base_query
+73,External Control of File Name or Path,36.092880415761385,base_query
+20,Improper Input Validation,36.07010496184784,base_query
+23,Relative Path Traversal,35.592978169298846,base_query
+434,Unrestricted Upload of File with Dangerous Type,35.256015681491064,base_query

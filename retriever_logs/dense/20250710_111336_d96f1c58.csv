@@ -1,0 +1,21 @@
+cwe_id,name,type,score
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),Base,0.5353870607068714
+912,Hidden Functionality,Class,0.5317264739718544
+269,Improper Privilege Management,Class,0.5154834310279885
+942,Permissive Cross-domain Policy with Untrusted Domains,Variant,0.5123713916945671
+250,Execution with Unnecessary Privileges,Base,0.5036620178101634
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),Base,0.5006087336528151
+306,Missing Authentication for Critical Function,Base,0.4985503597774572
+798,Use of Hard-coded Credentials,Base,0.49833536051667693
+200,Exposure of Sensitive Information to an Unauthorized Actor,Class,0.4951672463458531
+284,Improper Access Control,Pillar,0.4916308165981364
+321,Use of Hard-coded Cryptographic Key,Variant,0.4882788264728737
+294,Authentication Bypass by Capture-replay,Base,0.48685723528412383
+1299,Missing Protection Mechanism for Alternate Hardware Interface,Base,0.4864059192573041
+20,Improper Input Validation,Class,0.4863261668032365
+1256,Improper Restriction of Software Interfaces to Hardware Features,Base,0.4861978990434552
+401,Missing Release of Memory after Effective Lifetime,Variant,0.48553668316429854
+732,Incorrect Permission Assignment for Critical Resource,Class,0.4830346907343879
+941,Incorrectly Specified Destination in a Communication Channel,Base,0.4823707471910771
+121,Stack-based Buffer Overflow,Variant,0.48197447789385606
+406,Insufficient Control of Network Message Volume (Network Amplification),Class,0.48170777475007076

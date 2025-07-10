@@ -1,0 +1,21 @@
+cwe_id,name,type,score,relationship_count
+434,Unrestricted Upload of File with Dangerous Type,Base,2.84963866739338,0
+73,External Control of File Name or Path,Base,2.8476844970048436,0
+471,Modification of Assumed-Immutable Data (MAID),base,2.7196000000000002,0
+425,Direct Request ('Forced Browsing'),Base,2.5345017397480376,0
+306,Missing Authentication for Critical Function,base,2.4699999999999998,0
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),Base,2.339796130158999,0
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),Base,2.305689808245504,0
+613,Insufficient Session Expiration,base,2.2100000000000004,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,2.2100000000000004,0
+184,Incomplete List of Disallowed Inputs,base,2.2100000000000004,0
+494,Download of Code Without Integrity Check,base,2.2100000000000004,0
+183,Permissive List of Allowed Inputs,base,2.2100000000000004,0
+41,Improper Resolution of Path Equivalence,base,2.2100000000000004,0
+59,Improper Link Resolution Before File Access ('Link Following'),base,2.2100000000000004,0
+321,Use of Hard-coded Cryptographic Key,variant,2.14272,0
+259,Use of Hard-coded Password,variant,2.14272,0
+113,Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request/Response Splitting'),variant,2.04,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,2.04,0
+456,Missing Initialization of a Variable,variant,2.04,0
+352,Cross-Site Request Forgery (CSRF),compound,1.8280000000000003,0

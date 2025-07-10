@@ -1,0 +1,6 @@
+cwe_id,name,score,search_source
+798,Use of Hard-coded Credentials,6058.730952176441,unknown
+259,Use of Hard-coded Password,6001.441606738872,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,5750.211491609096,unknown
+863,Incorrect Authorization,5610.465333742819,unknown
+321,Use of Hard-coded Cryptographic Key,5606.414563139011,unknown

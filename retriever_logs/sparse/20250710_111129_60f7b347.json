@@ -1,0 +1,72 @@
+{
+  "retriever": "sparse",
+  "query": "Improper Control of Generation of Code (Code Injection) vulnerability in BG-TEK Informatics Security Technologies CoslatV3 allows Command Injection.This issue affects CoslatV3 through 3.1069. NOTE The vendor was contacted and it was learned that the product is not supported.",
+  "keyphrases": {
+    "weakness": "command injection"
+  },
+  "timestamp": "2025-07-10 11:11:29",
+  "cve_id": "CVE-2024-10035",
+  "result_count": 10,
+  "results": [
+    {
+      "cwe_id": "88",
+      "name": "Improper Neutralization of Argument Delimiters in a Command ('Argument Injection')",
+      "score": 199.76079064451383,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "138",
+      "name": "Improper Neutralization of Special Elements",
+      "score": 197.18726483924692,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "78",
+      "name": "Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+      "score": 196.73866802432678,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "95",
+      "name": "Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection')",
+      "score": 195.44966665140544,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "790",
+      "name": "Improper Filtering of Special Elements",
+      "score": 191.973248915623,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "502",
+      "name": "Deserialization of Untrusted Data",
+      "score": 191.6179167232692,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "89",
+      "name": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+      "score": 191.08029504853607,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "94",
+      "name": "Improper Control of Generation of Code ('Code Injection')",
+      "score": 189.91349986819384,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "1336",
+      "name": "Improper Neutralization of Special Elements Used in a Template Engine",
+      "score": 189.17810676141497,
+      "search_source": "base_query"
+    },
+    {
+      "cwe_id": "93",
+      "name": "Improper Neutralization of CRLF Sequences ('CRLF Injection')",
+      "score": 188.49783097631584,
+      "search_source": "base_query"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+cwe_id,name,type,score
+269,Improper Privilege Management,Class,0.6193283042242544
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),Base,0.6172748172612843
+200,Exposure of Sensitive Information to an Unauthorized Actor,Class,0.6167634783668438
+73,External Control of File Name or Path,Base,0.6146462331543946
+284,Improper Access Control,Pillar,0.6129167894521264
+552,Files or Directories Accessible to External Parties,Base,0.6108349991509683
+280,Improper Handling of Insufficient Permissions or Privileges ,Base,0.610465626922176
+425,Direct Request ('Forced Browsing'),Base,0.6101123898561926
+434,Unrestricted Upload of File with Dangerous Type,Base,0.6083434804746493
+642,External Control of Critical State Data,Class,0.6009008943264353
+862,Missing Authorization,Class,0.5999066289419343
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),Base,0.5906989562051767
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),Base,0.5888032198691256
+732,Incorrect Permission Assignment for Critical Resource,Class,0.5885594153484958
+306,Missing Authentication for Critical Function,Base,0.5885552931530351
+472,External Control of Assumed-Immutable Web Parameter,Base,0.5879579078450599
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,Base,0.5875284705307764
+94,Improper Control of Generation of Code ('Code Injection'),Base,0.5863863507965236
+775,Missing Release of File Descriptor or Handle after Effective Lifetime,Variant,0.5856001345085105
+639,Authorization Bypass Through User-Controlled Key,Base,0.5854147183965523

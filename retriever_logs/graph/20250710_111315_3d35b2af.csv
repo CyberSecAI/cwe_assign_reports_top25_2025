@@ -1,0 +1,21 @@
+cwe_id,name,type,score,relationship_count
+73,External Control of File Name or Path,base,2.8651999999999997,0
+363,Race Condition Enabling Link Following,base,2.8651999999999997,0
+59,Improper Link Resolution Before File Access ('Link Following'),base,2.3998000000000004,0
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,base,2.3998000000000004,0
+386,Symbolic Name not Mapping to Correct Object,base,2.3764000000000003,0
+609,Double-Checked Locking,base,2.2100000000000004,0
+306,Missing Authentication for Critical Function,base,2.1189999999999998,0
+61,UNIX Symbolic Link (Symlink) Following,compound,2.002,0
+183,Permissive List of Allowed Inputs,base,1.81064,0
+434,Unrestricted Upload of File with Dangerous Type,base,1.7680000000000005,0
+41,Improper Resolution of Path Equivalence,base,1.7680000000000005,0
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),base,1.7680000000000005,0
+613,Insufficient Session Expiration,base,1.6744000000000003,0
+1220,Insufficient Granularity of Access Control,Base,1.6634168530880935,0
+98,Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion'),variant,1.6320000000000003,0
+1275,Sensitive Cookie with Improper SameSite Attribute,variant,1.6320000000000003,0
+352,Cross-Site Request Forgery (CSRF),compound,1.61,0
+689,Permission Race Condition During Resource Copy,compound,1.61,0
+942,Permissive Cross-domain Policy with Untrusted Domains,Variant,1.4638467079302777,0
+94,Improper Control of Generation of Code ('Code Injection'),base,1.3676000000000001,0

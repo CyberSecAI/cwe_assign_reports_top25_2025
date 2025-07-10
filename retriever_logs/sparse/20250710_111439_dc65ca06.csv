@@ -1,0 +1,12 @@
+cwe_id,name,score,search_source
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),396.5194645787765,weakness:improper access controls
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),387.57436786258995,weakness:improper access controls
+306,Missing Authentication for Critical Function,359.32954587856193,weakness:improper access controls
+287,Improper Authentication,357.9583583187289,weakness:improper access controls
+285,Improper Authorization,353.8332402140188,weakness:improper access controls
+404,Improper Resource Shutdown or Release,348.3554140973186,weakness:improper access controls
+266,Incorrect Privilege Assignment,345.5793655088568,weakness:improper access controls
+99,Improper Control of Resource Identifiers ('Resource Injection'),344.0171092441979,weakness:improper access controls
+732,Incorrect Permission Assignment for Critical Resource,340.95995033254275,weakness:improper access controls
+1336,Improper Neutralization of Special Elements Used in a Template Engine,340.0306187722794,weakness:improper access controls
+334,Small Space of Random Values,117.76290975034128,base_query

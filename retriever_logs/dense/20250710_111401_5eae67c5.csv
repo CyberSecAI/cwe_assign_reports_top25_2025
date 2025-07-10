@@ -1,0 +1,21 @@
+cwe_id,name,type,score
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),Base,0.6344708390114076
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),Base,0.606340603841923
+425,Direct Request ('Forced Browsing'),Base,0.5915573534909725
+434,Unrestricted Upload of File with Dangerous Type,Base,0.59129207539034
+200,Exposure of Sensitive Information to an Unauthorized Actor,Class,0.5898971206584671
+94,Improper Control of Generation of Code ('Code Injection'),Base,0.5895874192181542
+790,Improper Filtering of Special Elements,Class,0.5865425079928155
+1336,Improper Neutralization of Special Elements Used in a Template Engine,Base,0.5864595016839536
+95,Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection'),Variant,0.5853620508814739
+502,Deserialization of Untrusted Data,Base,0.584782827587162
+96,Improper Neutralization of Directives in Statically Saved Code ('Static Code Injection'),Base,0.5847041419904294
+918,Server-Side Request Forgery (SSRF),Base,0.5835808950157573
+1286,Improper Validation of Syntactic Correctness of Input,Base,0.5781022395187665
+294,Authentication Bypass by Capture-replay,Base,0.5780288089544027
+696,Incorrect Behavior Order,Class,0.5777203655885529
+306,Missing Authentication for Critical Function,Base,0.5767048470962443
+116,Improper Encoding or Escaping of Output,Class,0.5761009497850008
+209,Generation of Error Message Containing Sensitive Information,Base,0.5756287328045061
+472,External Control of Assumed-Immutable Web Parameter,Base,0.5752268850181174
+73,External Control of File Name or Path,Base,0.57114153275651

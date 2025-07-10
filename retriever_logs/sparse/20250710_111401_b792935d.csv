@@ -1,0 +1,12 @@
+cwe_id,name,score,search_source
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),1000.0,alternate_term_match
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),364.64511197190643,weakness:sql injection
+502,Deserialization of Untrusted Data,326.777754416513,weakness:sql injection
+99,Improper Control of Resource Identifiers ('Resource Injection'),323.36954788176416,weakness:sql injection
+306,Missing Authentication for Critical Function,317.5188997767383,weakness:sql injection
+404,Improper Resource Shutdown or Release,316.21790985098727,weakness:sql injection
+138,Improper Neutralization of Special Elements,314.67808901031003,weakness:sql injection
+1336,Improper Neutralization of Special Elements Used in a Template Engine,314.00201972234066,weakness:sql injection
+434,Unrestricted Upload of File with Dangerous Type,313.37604003622175,weakness:sql injection
+93,Improper Neutralization of CRLF Sequences ('CRLF Injection'),312.7456445934934,weakness:sql injection
+287,Improper Authentication,109.02690256802323,base_query

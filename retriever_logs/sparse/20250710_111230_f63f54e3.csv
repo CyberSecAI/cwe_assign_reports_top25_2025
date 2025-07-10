@@ -1,0 +1,11 @@
+cwe_id,name,score,search_source
+129,Improper Validation of Array Index,41.94371034136405,unknown
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,41.60150395322361,unknown
+269,Improper Privilege Management,40.75827711859178,unknown
+798,Use of Hard-coded Credentials,40.41238533439022,unknown
+732,Incorrect Permission Assignment for Critical Resource,40.10117982049589,unknown
+259,Use of Hard-coded Password,39.97768327652918,unknown
+287,Improper Authentication,39.72132280358503,unknown
+125,Out-of-bounds Read,39.45963627349211,unknown
+256,Plaintext Storage of a Password,39.33969711315036,unknown
+285,Improper Authorization,39.17000427212558,unknown
